@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const SpaceConteudo = styled.div`
     width: 370px;
-    height: 100vh;
+    height: 90vh;
 
     display: flex;
     flex-direction: column;
@@ -22,11 +22,6 @@ export const SpaceConteudo = styled.div`
     }
 
     .topicos{
-        padding: 10px 20px;
-        color: white;
-    }
-
-    .topicosN{
         padding: 10px 20px;
         color: white;
     }
