@@ -41,11 +41,11 @@ function CCadastro() {
             </div>
             <div className="flex-column">
               Dia
-              <input type="text" value="DD" />
+              <input type="text" placeholder="DD" />
             </div>
             <div className="flex-column">
               Ano
-              <input type="text" value="AAAA" />
+              <input type="text" placeholder="AAAA" />
             </div>
           </div>
           <p>Qual é o seu gênero?</p>

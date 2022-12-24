@@ -7,6 +7,7 @@ export const SpaceConteudo = styled.div`
     display: flex;
     flex-direction: column;
     background-color: black;
+    user-select: none;
 
     a{
         display: flex;
